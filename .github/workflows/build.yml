@@ -1,4 +1,4 @@
-name: build
+name: Build Padavan(Kernel4.4.198) for RM2100
 
 on: 
   push:
